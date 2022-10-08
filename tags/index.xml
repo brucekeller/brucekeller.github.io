@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Bruce&#39;s site.</title>
+        <link>https://www.brucejkeller.com/tags/</link>
+        <description>Tags - Tag - Bruce&#39;s site.</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>bruce@brucejkeller.com (Bruce Keller)</managingEditor>
+            <webMaster>bruce@brucejkeller.com (Bruce Keller)</webMaster><atom:link href="https://www.brucejkeller.com/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
